@@ -16,10 +16,11 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("`Bleep blop! This is a bot. Don't fret.`\n\n"
-                  "`My master hasn't approved you to PM.`"
-                  "`Please wait for my master to look in, he mostly approves PMs.`\n\n"
-                  "`As far as I know, he doesn't usually approve retards though.`")
+UNAPPROVED_MSG = ("`Hey! This is a automated reply the user you are trying to message is no more availabe for dms and group talks but still drop him a message if he find you important he will surely reply you,`"
+                   "`And yeah don't send more 5 messages your profile will be reported and blocked. 🙂 `"
+                   "`Thanks,`"
+                   "`Bye.`")
+
 # =================================================================
 
 
