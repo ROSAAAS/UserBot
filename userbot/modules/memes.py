@@ -405,8 +405,8 @@ async def hacking (hacked):
     if not hacked.text[0].isalpha() and hacked.text[0] not in ("/", "#", "@", "!"):
         if await hacked.get_reply_message():
             await hacked.edit(
-                "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @shivamkchoudhary `To Remove This Hack...`\n"
+                "`Targeted Account Hacked successfully 😎`\n"
+                "`Pay 6969$ to` @MukeshxD `To Remove This Hack...`\n"
             )
 
 @register(outgoing=True, pattern="^.kill$")
@@ -415,7 +415,7 @@ async def killing (killed):
     if not killed.text[0].isalpha() and killed.text[0] not in ("/", "#", "@", "!"):
         if await killed.get_reply_message():
             await killed.edit(
-                "`Targeted User was Killed successfully 😈......`\n"
+                "`Targeted User was Killed successfully 😈`\n"
             )
 			  
 			  
