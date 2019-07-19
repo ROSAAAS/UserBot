@@ -16,7 +16,7 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = ("Hey! This is an automated reply. The user you are trying to message is no more availabe for dms and group talks but still drop him a message at @MukeshxDbot "
+UNAPPROVED_MSG = ("Hey! This is an automated reply. The user you are trying to message is no more availabe for dms and group talks but still drop him a message at @corryhelp_bot "
                    "and yeah don't send more than 5 messages or else your profile will be reported and blocked 🙂 \n\n"
                    "KBye.")
 # =================================================================
