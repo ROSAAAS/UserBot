@@ -200,7 +200,7 @@ RAPE_STRINGS = [
      "`Lodu Andha hai kya Yaha tera rape ho raha hai aur tu abhi tak yahi gaand mara raha hai lulz`",
 ] 
 ABUSE_STRINGS = [
-       "`Madharchod`",
+       "`Madharchod randi`",
 	   "`Gaandu`",
 	   "`Chutiya he rah jaye ga`",
 	   "`Ja be Gaandu`",
